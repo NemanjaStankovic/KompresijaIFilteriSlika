@@ -1,0 +1,36 @@
+C:\Users\neman\source\repos\MMS\bin\Debug\MMS.exe.config
+C:\Users\neman\source\repos\MMS\bin\Debug\MMS.exe
+C:\Users\neman\source\repos\MMS\bin\Debug\MMS.pdb
+C:\Users\neman\source\repos\MMS\obj\Debug\MMS.csproj.AssemblyReference.cache
+C:\Users\neman\source\repos\MMS\obj\Debug\MMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\neman\source\repos\MMS\obj\Debug\MMS.Form1.resources
+C:\Users\neman\source\repos\MMS\obj\Debug\MMS.Properties.Resources.resources
+C:\Users\neman\source\repos\MMS\obj\Debug\MMS.csproj.GenerateResource.cache
+C:\Users\neman\source\repos\MMS\obj\Debug\MMS.csproj.CoreCompileInputs.cache
+C:\Users\neman\source\repos\MMS\obj\Debug\MMS.exe
+C:\Users\neman\source\repos\MMS\obj\Debug\MMS.pdb
+C:\Users\neman\source\repos\MMS\obj\Debug\MMS.ContrastPom.resources
+C:\Users\neman\source\repos\MMS – sa unsafe Downscaling\bin\Debug\MMS.exe.config
+C:\Users\neman\source\repos\MMS – sa unsafe Downscaling\bin\Debug\MMS.exe
+C:\Users\neman\source\repos\MMS – sa unsafe Downscaling\bin\Debug\MMS.pdb
+C:\Users\neman\source\repos\MMS – sa unsafe Downscaling\obj\Debug\MMS.csproj.AssemblyReference.cache
+C:\Users\neman\source\repos\MMS – sa unsafe Downscaling\obj\Debug\MMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\neman\source\repos\MMS – sa unsafe Downscaling\obj\Debug\MMS.ContrastPom.resources
+C:\Users\neman\source\repos\MMS – sa unsafe Downscaling\obj\Debug\MMS.Form1.resources
+C:\Users\neman\source\repos\MMS – sa unsafe Downscaling\obj\Debug\MMS.Properties.Resources.resources
+C:\Users\neman\source\repos\MMS – sa unsafe Downscaling\obj\Debug\MMS.csproj.GenerateResource.cache
+C:\Users\neman\source\repos\MMS – sa unsafe Downscaling\obj\Debug\MMS.csproj.CoreCompileInputs.cache
+C:\Users\neman\source\repos\MMS – sa unsafe Downscaling\obj\Debug\MMS.exe
+C:\Users\neman\source\repos\MMS – sa unsafe Downscaling\obj\Debug\MMS.pdb
+C:\Users\neman\source\repos\MMS – sa unsafe Downscaling – kopija\bin\Debug\MMS.exe.config
+C:\Users\neman\source\repos\MMS – sa unsafe Downscaling – kopija\bin\Debug\MMS.exe
+C:\Users\neman\source\repos\MMS – sa unsafe Downscaling – kopija\bin\Debug\MMS.pdb
+C:\Users\neman\source\repos\MMS – sa unsafe Downscaling – kopija\obj\Debug\MMS.csproj.AssemblyReference.cache
+C:\Users\neman\source\repos\MMS – sa unsafe Downscaling – kopija\obj\Debug\MMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\neman\source\repos\MMS – sa unsafe Downscaling – kopija\obj\Debug\MMS.ContrastPom.resources
+C:\Users\neman\source\repos\MMS – sa unsafe Downscaling – kopija\obj\Debug\MMS.Form1.resources
+C:\Users\neman\source\repos\MMS – sa unsafe Downscaling – kopija\obj\Debug\MMS.Properties.Resources.resources
+C:\Users\neman\source\repos\MMS – sa unsafe Downscaling – kopija\obj\Debug\MMS.csproj.GenerateResource.cache
+C:\Users\neman\source\repos\MMS – sa unsafe Downscaling – kopija\obj\Debug\MMS.csproj.CoreCompileInputs.cache
+C:\Users\neman\source\repos\MMS – sa unsafe Downscaling – kopija\obj\Debug\MMS.exe
+C:\Users\neman\source\repos\MMS – sa unsafe Downscaling – kopija\obj\Debug\MMS.pdb
